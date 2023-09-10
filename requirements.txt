@@ -15,24 +15,11 @@ pyrogram>=2.0.30
 #---master---# 
  #Telethroid==0.0.10 
  PyLeaves==1.0.2 
-  
-  
  
- #---ytdl----# 
- ffmpeg
-youtube_search
-youtube-search-python==1.4.6
-yt-dlp
-youtube-dl
-requests 
-  
-  
+ 
  #---others----# 
- opencv-python-headless==4.7.0.68 
- googletrans==3.1.0a0 
- telegraph==2.2.0 
+ opencv-python-headless==4.7.0.68
  python-dotenv==0.21.1 
- gTTS==2.3.1 
  speedtest==0.0.1 
  humanize==4.6.0 
  Pillow==9.4.0 
@@ -47,7 +34,6 @@ requests
  ### googletrans==4.0.0-rc1 ###
 python-decouple
 ffmpeg-python>=0.2.0
-ytthumb
 
 jinja2
 apscheduler
